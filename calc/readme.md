@@ -1,5 +1,7 @@
 # Calc
 
+Created by Jisu
+
 ## API
 
 - add(a, b)
