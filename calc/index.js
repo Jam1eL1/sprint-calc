@@ -19,5 +19,5 @@ function testSubtract() {
 }
 
 function testMultiply() {
-  console.log(multiply(2, 3) === 6);
+  console.log(multiply(4, 2) === 6);
 }
